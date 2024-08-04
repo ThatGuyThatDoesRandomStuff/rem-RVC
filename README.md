@@ -1,2 +1,3 @@
-# rem-RVC
-Collection of rem-RVC models
+# rem-RVC REPO
+
+Collection of REM-RVC models, currently free as it is in beta.
